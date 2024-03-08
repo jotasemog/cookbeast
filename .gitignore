@@ -24,6 +24,12 @@ npm-debug.*
 yarn-debug.*
 yarn-error.*
 
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+
 # macOS
 .DS_Store
 *.pem
