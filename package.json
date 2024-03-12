@@ -1,6 +1,6 @@
 {
   "name": "cookbeast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "node_modules/expo/AppEntry.js",
   "repository": {
     "type": "git",
@@ -19,10 +19,13 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "alt-tag-generator": "^1.0.3",
+    "degen-watch": "^0.1.1",
     "expo": "~50.0.11",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
-    "react-native": "0.73.4"
+    "react-native": "0.73.4",
+    "world-weather-app": "^1.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
